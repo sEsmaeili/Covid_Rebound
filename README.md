@@ -11,6 +11,6 @@ Content includes:
    - AllFunctions supporting Python notebook
    - individual VL parameters
    - population VL parameters
-   - individual PK parameteres
-   - population PK parameters
+   - Nirmatrelvir individual PK parameteres
+   - Nirmatrelvir population PK parameters
    - VL Data file for NBA subcohort with known symptom onset
