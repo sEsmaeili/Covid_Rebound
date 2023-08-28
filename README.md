@@ -6,8 +6,8 @@ Shadisadat Esmaeili (1), Katherine Owens (1), Jessica Wagoner (2), Stephen J. Po
 1. Fred Hutchinson Cancer Center, Vaccine and Infectious Diseases Division
 2. University of Washington, Department of Medicine
 
-3. Content includes:
-4. - Python notebooks for figures 1-8 and S1-S6
+Content includes:
+   - Python notebooks for figures 1-8 and S1-S6
    - AllFunctions supporting Python notebook
    - individual VL parameters
    - population VL parameters
