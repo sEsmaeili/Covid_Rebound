@@ -7,7 +7,7 @@ Shadisadat Esmaeili (1), Katherine Owens (1), Jessica Wagoner (2), Stephen J. Po
 2. University of Washington, Department of Medicine
 
 Content includes:
-   - Python notebooks for figures 1-8 and S1-S6
+   - Python notebooks for figures 2-8 and S1-S6
    - AllFunctions supporting Python notebook
    - individual VL parameters
    - population VL parameters
