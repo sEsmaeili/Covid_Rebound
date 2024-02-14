@@ -19,6 +19,6 @@ Content includes:
    - 
 ### System's Requirements
 
-The codes are written in Python 3.9.12 and can be run on Jupyter notebook on any standard Mac or Windows computer.
+Codes are written in Python 3.9.12 and can be run on Jupyter notebook on any standard Mac or Windows computer.
 
 
