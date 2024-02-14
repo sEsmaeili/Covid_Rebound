@@ -7,10 +7,6 @@ Shadisadat Esmaeili (1), Katherine Owens (1), Jessica Wagoner (2), Stephen J. Po
 2. University of Washington, Department of Medicine
 3. Department of Cell Biology, University of Virginia; Charlottesville, VA, USA.
 
-### System's Requirements
-
-The codes are written in Python 3.9.12 and can be run on Jupyter notebook on any standard Mac or Windows computer.
-
 
 Content includes:
    - Python notebooks for figures 2-8 and S1-S10
@@ -20,3 +16,9 @@ Content includes:
    - Nirmatrelvir individual PK parameteres
    - Nirmatrelvir population PK parameters
    - VL Data file for NBA cohort with variant information
+   - 
+### System's Requirements
+
+The codes are written in Python 3.9.12 and can be run on Jupyter notebook on any standard Mac or Windows computer.
+
+
