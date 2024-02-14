@@ -21,4 +21,8 @@ Content includes:
 
 Codes are written in Python 3.9.12 and can be run on Jupyter notebook on any standard Mac or Windows computer.
 
+### Instruction for use
+
+Jupyter notebook "All_Functions.ipynb" contains all the necessary functions and needs to be in the same directory as the other notebooks for all the other notebooks to run successfully.
+
 
