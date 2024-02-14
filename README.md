@@ -16,7 +16,7 @@ Content includes:
    - Nirmatrelvir individual PK parameteres
    - Nirmatrelvir population PK parameters
    - VL Data file for NBA cohort with variant information
-   - 
+   - Nirmatrelvir PD data
 ### System's Requirements
 
 Codes are written in Python 3.9.12 and can be run on Jupyter notebook on any standard Mac or Windows computer.
