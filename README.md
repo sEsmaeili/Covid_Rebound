@@ -9,7 +9,7 @@ Shadisadat Esmaeili (1), Katherine Owens (1), Jessica Wagoner (2), Stephen J. Po
 
 
 Content includes:
-   - Python notebooks for figures 2-8 and S1-S10
+   - Python notebooks for figures 2-8 and S1-S16
    - AllFunctions supporting Python notebook
    - individual VL parameters
    - population VL parameters
